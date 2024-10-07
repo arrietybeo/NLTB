@@ -1,0 +1,11 @@
+FONT
+
+X1: Big = 10.  Small = 10;
+
+X2 Big = 18. Small = 16
+
+
+X3 Big = 26 . Small = 22
+
+
+X4 Big = 36 . Small = 30
